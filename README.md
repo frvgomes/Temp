@@ -1,2 +1,4 @@
 # Temp
-arquivos temporários
+arquivos temporï¿½rios
+
+incluindo segunda linha
