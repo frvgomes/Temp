@@ -1,2 +1,2 @@
 # Temp
-arquivos tempor√°rios
+arquivos tempor·rios
